@@ -1,4 +1,4 @@
-# Linear-Regression-project
+# Medical_Cost_Prediction
 This project focuses on applying Linear Regression to predict medical insurance costs based on multiple independent variables. 
 # Tools & Technologies
 Python
